@@ -1,0 +1,20 @@
+import React from "react";
+
+const SearchBox = ({searchchange}) => {
+    return(
+        <div className="pa2 container">
+            <input className="pa3 ba b--green bg-lightest-blue" 
+            type="search" 
+            placeholder="Search..." 
+            onChange = {searchchange}
+            />
+            <div class="search"></div>
+        </div>
+    )
+}
+
+
+
+
+export default SearchBox
+
