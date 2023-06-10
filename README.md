@@ -6,7 +6,6 @@ This is a React application called RoboFriends, which allows you to search and d
 
 - [Installation](#installation)
 - [How to Run](#how-to-run)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
